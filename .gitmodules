@@ -1,0 +1,4 @@
+[submodule "edz-private"]
+	path = edz-private
+	url = git@github.com:rfhk/edz-private.git
+	branch = staging190627
